@@ -23,4 +23,4 @@ def input_to_index(input)
   puts input.to_i + 1
 end
 
-# def move
+puts input_to_index(5)
